@@ -2,8 +2,8 @@
 Terraform provider scripts that can be used to create, manage, and manipulate infrastructure resources.
 
 ## Providers
-- Amazon AWS  
-- Digital Ocean
+- [Amazon AWS](https://github.com/phmullins/terraform-providers/blob/master/terraform-aws)  
+- [Digital Ocean](https://github.com/phmullins/terraform-providers/tree/master/terraform-digital-ocean)
 
 ## Usage
 All providers need to be configured with the proper credentials before they can be used.
